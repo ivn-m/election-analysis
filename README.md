@@ -34,6 +34,10 @@ The analysis of the congressional election show that:
     - Raymon Anthony Doane received 3.1% of the votes and 11,606 nunber of votes
 - The winner of the election was Diana DeGette who received 73.8% of the total vote and 272,892 number of votes.
 
+
+![image](https://user-images.githubusercontent.com/93107507/143809709-04d8284c-1fab-4a7a-ba35-9b0d0a28b34a.png)
+
+
 ## Election Audit Summary
 In the case that a state is using electronic polling in their elections (city, county, state, etc.) this algorithm can be used to tabulate the results of said election at a faster speed and reduce human bias and error when determening the results. If the Board of Elections would like to understand election audit results through a city perspective, they would need to collect such data and then replace county related variables in this algorithm for city related variables (to make reading the code easier). Additionally, this algorithm can reduce audit times for those jurisdictions that continue to tabulate votes by hand. 
 
